@@ -1,7 +1,7 @@
 ---
 name: Epic
 about: Strategy Perspective
-title: ''
+title: "[EPIC] "
 labels: Epic
 assignees: ''
 

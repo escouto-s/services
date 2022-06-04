@@ -1,7 +1,7 @@
 ---
 name: User Story
 about: 'User perspective '
-title: "[USER STORY]"
+title: "[USER STORY] "
 labels: User History
 assignees: ''
 

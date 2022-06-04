@@ -1,7 +1,7 @@
 ---
 name: Feature
 about: Product Perspective
-title: "[FEATURE]"
+title: "[FEATURE] "
 labels: Functionality
 assignees: ''
 
